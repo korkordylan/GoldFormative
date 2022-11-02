@@ -1,0 +1,10 @@
+body {
+    background-color: grey;
+  }
+  .carousel-item-active{
+    height: 200px;
+  }
+
+.carousel-item img {
+  max-height: 500px;
+}
